@@ -8,7 +8,7 @@
 
 namespace ZTF\FirstPackage;
 
-class Helper
+class Help
 {
     /**
      * @param $price

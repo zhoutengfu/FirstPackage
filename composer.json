@@ -1,0 +1,28 @@
+{
+  "name": "zhoutengfu/first-package",
+  "description": "常用帮助方类",
+  "homepage": "https://github.com/zhoutengfu/first-package",
+  "license": "MIT",
+  "keywords": [
+    "package",
+    "psr-4"
+  ],
+  "authors": [
+    {
+      "name": "zhoutengfu",
+      "email": "931945321@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ZTF\\FirstPackage\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.org"
+    }
+  ]
+}
